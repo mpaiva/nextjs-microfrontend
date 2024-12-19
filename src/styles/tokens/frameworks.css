@@ -1,0 +1,30 @@
+/**
+ * Framework-specific design tokens
+ */
+
+:root {
+  /* React */
+  --framework-react: hsl(193, 95%, 40%);
+  --framework-react-hover: hsl(193, 95%, 35%);
+  --framework-react-text: hsl(193, 95%, 20%);
+
+  /* Backbone */
+  --framework-backbone: hsl(271, 81%, 56%);
+  --framework-backbone-hover: hsl(271, 81%, 51%);
+  --framework-backbone-text: hsl(271, 81%, 25%);
+
+  /* Angular */
+  --framework-angular: hsl(358, 75%, 59%);
+  --framework-angular-hover: hsl(358, 75%, 54%);
+  --framework-angular-text: hsl(358, 75%, 25%);
+
+  /* Vue */
+  --framework-vue: hsl(153, 47%, 49%);
+  --framework-vue-hover: hsl(153, 47%, 44%);
+  --framework-vue-text: hsl(153, 47%, 25%);
+
+  /* Web Components */
+  --framework-web: hsl(31, 95%, 52%);
+  --framework-web-hover: hsl(31, 95%, 47%);
+  --framework-web-text: hsl(31, 95%, 25%);
+}

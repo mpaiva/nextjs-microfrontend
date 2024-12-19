@@ -1,0 +1,24 @@
+:root {
+  /* Framework-specific colors */
+  --framework-react: hsl(193, 95%, 40%);
+  --framework-react-hover: hsl(193, 95%, 35%);
+  --framework-angular: hsl(358, 75%, 59%);
+  --framework-angular-hover: hsl(358, 75%, 54%);
+  --framework-vue: hsl(153, 47%, 49%);
+  --framework-vue-hover: hsl(153, 47%, 44%);
+  --framework-web: hsl(31, 95%, 52%);
+  --framework-web-hover: hsl(31, 95%, 47%);
+  --framework-htmx: hsl(265, 89%, 55%);
+  --framework-htmx-hover: hsl(265, 89%, 50%);
+  --framework-svelte: hsl(225, 73%, 57%);
+  --framework-svelte-hover: hsl(225, 73%, 52%);
+
+  /* Shared styles */
+  --counter-radius: 0.75rem;
+  --counter-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --counter-border-width: 2px;
+  
+  /* Typography */
+  --button-font-size: 1.2rem;
+  --button-line-height: 1.5;
+}
